@@ -1,5 +1,5 @@
 # smoothScrollNuxt
-Smooth scroll in nuxt apps.
+Smooth scroll in nuxt apps by https://github.com/idiotWu/smooth-scrollbar.
 
 ====
    

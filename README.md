@@ -1,21 +1,5 @@
 # smoothScrollNuxt
-Smooth scroll in nuxt apps by https://github.com/idiotWu/smooth-scrollbar.
+Smooth scroll in nuxt apps by [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar).
+***
+[Demo](https://ehsan-shv.github.io/smoothScroll-Nuxt/)
 
-====
-   
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```

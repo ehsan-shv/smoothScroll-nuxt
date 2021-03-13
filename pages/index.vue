@@ -19,6 +19,7 @@ export default {
 <style>
 html{
   overflow: hidden;
+/*  */
 }
 .smoothLayer{
   position: fixed !important;

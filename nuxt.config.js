@@ -1,7 +1,7 @@
 export default {
   target: 'static', // default is 'server',
   router: {
-    base: '/smoothScroll-Nuxt/'
+    base: '/smoothScroll-nuxt/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {

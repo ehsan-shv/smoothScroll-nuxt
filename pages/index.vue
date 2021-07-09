@@ -2,7 +2,7 @@
   <div class="smoothLayer">
     <div class="container">
       <h1>Smooth Scroll</h1>
-      <h2>Nux app</h2>
+      <h2>Nuxt app</h2>
       <a href="https://github.com/ehsan-shv">github</a>
     </div>
   </div>
